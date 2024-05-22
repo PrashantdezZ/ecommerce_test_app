@@ -1,0 +1,66 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "ecommerce_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ecommerce_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ecommerce_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "common_widget",
+            "cwd": "packages\\common_widget",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "common_widget (profile mode)",
+            "cwd": "packages\\common_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "common_widget (release mode)",
+            "cwd": "packages\\common_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "global",
+            "cwd": "packages\\global",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "global (profile mode)",
+            "cwd": "packages\\global",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "global (release mode)",
+            "cwd": "packages\\global",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
